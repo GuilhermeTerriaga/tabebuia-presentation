@@ -93,6 +93,12 @@ image: ipe-pod.jpg
 Tabebuia is the genus of Ipê trees and the Ipê seeds are compressed together in pods just like some files grouped in a tar file.
 Also the seeds themselves have some kind of involucre that reminds me of compression.
 
+
+---
+layout: image
+image: ./Iperosaibira.jpg
+hideInToc: true
+---
 ---
 layout: image-left
 layoutClass: gap-16
@@ -103,12 +109,6 @@ image: https://cover.sli.dev
 # Table of contents
 
 <Toc text-sm minDepth="1" maxDepth="2" />
-
----
-layout: image
-image: ./Iperosaibira.jpg
-hideInToc: true
----
 
 ---
 layout: image-left
